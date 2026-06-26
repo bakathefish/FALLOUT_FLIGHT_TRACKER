@@ -1,0 +1,8 @@
+node_modules
+.next
+drizzle
+data/airports.json
+package-lock.json
+coverage
+playwright-report
+test-results

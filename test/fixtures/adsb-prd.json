@@ -1,0 +1,76 @@
+{
+  "ac": [
+    {
+      "hex": "a1b2c3",
+      "flight": "CPA216  ",
+      "r": "B-LXA",
+      "t": "B789",
+      "alt_baro": 35000,
+      "gs": 451,
+      "track": 118.0,
+      "lat": 24.12,
+      "lon": 110.85,
+      "seen_pos": 2.4
+    },
+    {
+      "hex": "d4e5f6",
+      "flight": "CPA904 ",
+      "r": "B-HLR",
+      "t": "A333",
+      "alt_baro": "ground",
+      "gs": 0,
+      "track": 270,
+      "lat": 22.308,
+      "lon": 113.918,
+      "seen_pos": 8.1
+    },
+    {
+      "hex": "7a8b9c",
+      "flight": "UAL862 ",
+      "r": "N2645U",
+      "t": "B77W",
+      "alt_baro": 37000,
+      "gs": 480,
+      "track": 95.5,
+      "lat": 21.94,
+      "lon": 112.41,
+      "seen_pos": 1.2
+    },
+    {
+      "hex": "0d1e2f",
+      "flight": "SIA890 ",
+      "r": "9V-SMT",
+      "t": "A359",
+      "alt_baro": 31000,
+      "gs": 465,
+      "track": 110.2,
+      "lat": 23.41,
+      "lon": 112.02,
+      "seen_pos": 3.1
+    },
+    {
+      "hex": "3a4b5c",
+      "flight": "CES501 ",
+      "r": "B-8221",
+      "t": "A320",
+      "alt_baro": 15000,
+      "gs": 360,
+      "track": 150.0,
+      "lat": 22.91,
+      "lon": 113.2,
+      "seen_pos": 5.5
+    },
+    {
+      "hex": "6d7e8f",
+      "flight": "HDA635 ",
+      "r": "B-LPA",
+      "t": "A320",
+      "alt_baro": 9000,
+      "gs": 320,
+      "track": 130.4,
+      "lat": 22.74,
+      "lon": 113.41,
+      "seen_pos": 4.0
+    }
+  ]
+}

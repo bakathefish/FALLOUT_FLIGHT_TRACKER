@@ -1,4 +1,4 @@
-# fallout arrivals
+# Fallout Flight Tracker
 
 a live board where the hack club fallout cohort watches each other's flights
 converge on shenzhen and hong kong. open it on landing day and watch the dots
